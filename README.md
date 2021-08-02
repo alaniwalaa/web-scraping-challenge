@@ -9,5 +9,3 @@ using pandas, flask, and BeautifulSoup to scraping various websites and presenti
 <img width="809" alt="Screen Shot 2021-08-02 at 1 13 29 PM" src="https://user-images.githubusercontent.com/51308869/127918810-2f88b863-3a41-4d38-a370-09a1cf6cb7f8.png">
 
 
-
-<img width="1207" alt="Screen Shot 2021-08-02 at 12 45 26 PM" src="https://user-images.githubusercontent.com/51308869/127918826-48dc7178-5665-48ea-a82f-8f6754684777.png">
